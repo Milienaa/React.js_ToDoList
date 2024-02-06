@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: {
+        color: #cecece;
+    };
+    font: {
+        family: Tahoma, Verdana, sans-serif;
+        size: 20px;
+    };
+    color: #555;
+}
+
+.todo {
+    width: 90%;
+    max-width: 1140px;
+    margin: 10px auto;
+}
